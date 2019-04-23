@@ -38,6 +38,6 @@ def using_flatten(a)
   a.flatten
 end
 
-del using_delete(a,s)
+def using_delete(a,s)
   a.delete(s)
 end
