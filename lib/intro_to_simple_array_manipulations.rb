@@ -27,5 +27,5 @@ def using_concat(a,b)
 end
 
 def using_insert(a,n)
-  a.insert(3, n)
+  a.insert(4, n)
 end
