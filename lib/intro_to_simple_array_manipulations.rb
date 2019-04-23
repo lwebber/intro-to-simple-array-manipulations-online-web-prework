@@ -29,3 +29,7 @@ end
 def using_insert(a,n)
   a.insert(4, n)
 end
+
+def using_uniq(a)
+  a.uniq
+end
