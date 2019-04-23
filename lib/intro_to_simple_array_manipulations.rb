@@ -39,5 +39,5 @@ def using_flatten(a)
 end
 
 del using_delete(a,s)
-
+  a.delete(s)
 end
