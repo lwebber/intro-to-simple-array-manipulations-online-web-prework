@@ -39,5 +39,5 @@ def using_flatten(a)
 end
 
 del using_delete(a,s)
-  scores.delete_if {|score| score < 80 }   #=> [97]
+
 end
