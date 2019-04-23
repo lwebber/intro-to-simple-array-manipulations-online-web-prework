@@ -7,5 +7,5 @@ def using_unshift(a, s)
 end
 
 def using_pop(a)
-  a.pop(s)
+  a.pop()
 end
