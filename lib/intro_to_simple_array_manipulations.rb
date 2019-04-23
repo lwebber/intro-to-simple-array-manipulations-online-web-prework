@@ -35,5 +35,5 @@ def using_uniq(a)
 end
 
 def using_flatten(a)
-  
+  a.flatten
 end
